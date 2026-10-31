@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/hohmann-loader",
+  "version": "0.1.0",
+  "description": "A page loader drawn as an engraved plate of a Hohmann transfer from Earth to Mars.",
+  "type": "module",
+  "main": "./hohmann-loader.js",
+  "module": "./hohmann-loader.js",
+  "exports": {
+    ".": "./hohmann-loader.js",
+    "./style.css": "./hohmann-loader.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/hohmann-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/hohmann-loader"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "hohmann"
+  ]
+}

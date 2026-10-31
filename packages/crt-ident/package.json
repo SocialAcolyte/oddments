@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/crt-ident",
+  "version": "0.1.0",
+  "description": "Any logo, shown on a colour television of about 1985.",
+  "type": "module",
+  "main": "./crt-ident.js",
+  "module": "./crt-ident.js",
+  "exports": {
+    ".": "./crt-ident.js",
+    "./style.css": "./crt-ident.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/crt-ident",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/crt-ident"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "crt"
+  ]
+}

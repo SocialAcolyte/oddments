@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/branch-growth",
+  "version": "0.1.0",
+  "description": "A flowering plum branch, painted in ink, that grows down a long page as you read it.",
+  "type": "module",
+  "main": "./branch-growth.js",
+  "module": "./branch-growth.js",
+  "exports": {
+    ".": "./branch-growth.js",
+    "./style.css": "./branch-growth.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/branch-growth",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/branch-growth"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "branch"
+  ]
+}

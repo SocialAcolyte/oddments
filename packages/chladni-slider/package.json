@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/chladni-slider",
+  "version": "0.1.0",
+  "description": "Ernst Chladni's own sand figures, made again as you scroll. The sheet is Tab. VIII of his Entdeckungen über die Theorie des Klanges (Leipzig 1787): twenty square plates, figures 87 to 106, engraved in copper by Capieux in 1786.",
+  "type": "module",
+  "main": "./chladni-slider.js",
+  "module": "./chladni-slider.js",
+  "exports": {
+    ".": "./chladni-slider.js",
+    "./style.css": "./chladni-slider.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/chladni-slider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/chladni-slider"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "chladni"
+  ]
+}

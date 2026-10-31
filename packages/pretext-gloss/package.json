@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-gloss",
+  "version": "0.1.0",
+  "description": "The glossed page: a medieval glossed Bible, a Talmud folio or a Renaissance commentary page, laid out live. The main text sits in the middle in larger type, under a painted initial.",
+  "type": "module",
+  "main": "./pretext-gloss.js",
+  "module": "./pretext-gloss.js",
+  "exports": {
+    ".": "./pretext-gloss.js",
+    "./style.css": "./pretext-gloss.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-gloss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-gloss"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

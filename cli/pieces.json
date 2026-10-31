@@ -1,0 +1,394 @@
+[
+ {
+  "slug": "gold-ground",
+  "section": "Images & materials",
+  "blurb": "A Byzantine gold mosaic that glints the way the real wall does.",
+  "kb": 3572
+ },
+ {
+  "slug": "hanging-tapestry",
+  "section": "Images & materials",
+  "blurb": "A woven hanging on a turned wooden rod with brass finials, hung by a cord from one nail. The cloth is a real simulation, not a picture of one. It hangs in soft folds that are darker in the valleys and carry a faint wool sheen.",
+  "kb": 2905
+ },
+ {
+  "slug": "marble-relight",
+  "section": "Images & materials",
+  "blurb": "A marble head standing in the page, lit by a candle you carry.",
+  "kb": 3194
+ },
+ {
+  "slug": "woodblock-print",
+  "section": "Images & materials",
+  "blurb": "A real Japanese colour woodblock print, printed in front of you as you scroll.",
+  "kb": 4727
+ },
+ {
+  "slug": "details-wheel",
+  "section": "Images & materials",
+  "blurb": "Any set of images starts as a pile at the centre of a pinned stage, spirals out through a full turn, and settles into a ring facing outward like petals; grey to colour as each lands.",
+  "kb": 688,
+  "npm": "@oddments/details-wheel"
+ },
+ {
+  "slug": "loupe",
+  "section": "Images & materials",
+  "blurb": "A round reading glass lying on a print.",
+  "kb": 7271
+ },
+ {
+  "slug": "window-pane",
+  "section": "Images & materials",
+  "blurb": "A painting seen through a cold window on a wet day.",
+  "kb": 608
+ },
+ {
+  "slug": "raking-light",
+  "section": "Images & materials",
+  "blurb": "A carved surface relit by a low lamp. Epigraphers read worn inscriptions and cuneiform by raking light: a lamp held nearly level with the surface and moved around it, so every wedge and chisel cut throws a shadow and the marks leap out.",
+  "kb": 6443
+ },
+ {
+  "slug": "candle-light",
+  "section": "Images & materials",
+  "blurb": "A candlelit painting whose candle is alive. Georges de La Tour's Penitent Magdalen sits with a candle and its double in a black mirror. In front of the real canvas both flames are still.",
+  "kb": 820
+ },
+ {
+  "slug": "marbling",
+  "section": "Images & materials",
+  "blurb": "A marbler's bath. Tap to drop ink and it opens on the size, pushing every earlier colour aside. Drag to pull a stylus through it, or draw a comb of tines across to get the feathered rows of a nonpareil.",
+  "kb": 1945
+ },
+ {
+  "slug": "peony-print",
+  "section": "Images & materials",
+  "blurb": "Hokusai's Peonies and Canary is printed in front of you as you scroll, block by block, ending as the scan itself.",
+  "kb": 7599
+ },
+ {
+  "slug": "ripple-pool",
+  "section": "Images & materials",
+  "blurb": "A Roman marine mosaic seen through a shallow pool of clear water, after Evan Wallace's WebGL Water.",
+  "kb": 3061
+ },
+ {
+  "slug": "shadow-puppet",
+  "section": "Images & materials",
+  "blurb": "Wayang kulit, seen from the shadow side.",
+  "kb": 639
+ },
+ {
+  "slug": "vellum-study",
+  "section": "Watercolour",
+  "blurb": "Pancrace Bessa's waratah, a botanical watercolour on vellum from about 1830, painted in front of you as you scroll, in the order the Paris flower painters worked on calfskin.",
+  "kb": 3221
+ },
+ {
+  "slug": "stipple-rose",
+  "section": "Watercolour",
+  "blurb": "A plate from Redouté's Les Roses (Paris, 1817-24), Rosa lucida, made in front of you as you scroll, in the order it was really made.",
+  "kb": 1816
+ },
+ {
+  "slug": "florilegium",
+  "section": "Watercolour",
+  "blurb": "A colourist's bench.",
+  "kb": 15778
+ },
+ {
+  "slug": "flower-border",
+  "section": "Watercolour",
+  "blurb": "A leaf from a Flemish book of hours, the Spinola Hours (Ghent or Bruges, about 1510-1520), painted in front of you as you scroll, in the order the illuminator worked.",
+  "kb": 4372
+ },
+ {
+  "slug": "hand-colouring",
+  "section": "Watercolour",
+  "blurb": "A plate from Maria Sibylla Merian's Metamorphosis insectorum Surinamensium (Amsterdam, 1705) coloured by hand as you read. It arrives as the bare engraving, black-brown line on its own cream paper, the way uncoloured copies were sold.",
+  "kb": 3045
+ },
+ {
+  "slug": "wet-on-wet",
+  "section": "Watercolour",
+  "blurb": "Winslow Homer's Sloop, Nassau (1899) painted in front of you as you scroll, in the order Homer worked. It starts as a sheet of warm white Whatman paper with a pencil drawing on it.",
+  "kb": 2478
+ },
+ {
+  "slug": "branch-growth",
+  "section": "Rainforest",
+  "blurb": "A flowering plum branch, painted in ink, that grows down a long page as you read it.",
+  "kb": 76,
+  "npm": "@oddments/branch-growth"
+ },
+ {
+  "slug": "drip-tip",
+  "section": "Rainforest",
+  "blurb": "Rain in Henri Rousseau's The Equatorial Jungle (1909). The painting is a full-bleed band on the paper, cropped to its upper half: a cluster of dark leaves hanging into a pale sky, palm fronds at the left, a spray of pointed leaves below.",
+  "kb": 3841
+ },
+ {
+  "slug": "pretext-vine",
+  "section": "Rainforest",
+  "blurb": "A passionflower climbs a paragraph, and the paragraph makes room for it. The text is set by Cheng Lou's pretext.",
+  "kb": 555
+ },
+ {
+  "slug": "koi-pond",
+  "section": "Water",
+  "blurb": "Koi from a woodblock print swimming under water you can touch.",
+  "kb": 675
+ },
+ {
+  "slug": "waterfall-print",
+  "section": "Water",
+  "blurb": "A descent down a Hokusai waterfall, with his painted water pouring. Each print is a section that pins a full-height stage. As you scroll, a camera travels down the falls with the water:",
+  "kb": 6196
+ },
+ {
+  "slug": "lotus-leaf",
+  "section": "Water",
+  "blurb": "Rain on a cluster of lotus leaves.",
+  "kb": 325
+ },
+ {
+  "slug": "meander",
+  "section": "Water",
+  "blurb": "A river seen from above wanders across its floodplain as you scroll, and the centuries pile up behind it in the manner of Harold Fisk's 1944 maps of the ancient courses of the lower Mississippi.",
+  "kb": 2100
+ },
+ {
+  "slug": "pretext-rain",
+  "section": "Water",
+  "blurb": "A handwritten letter left out on a garden table, and a shower coming over it as you scroll.",
+  "kb": 129,
+  "npm": "@oddments/pretext-rain"
+ },
+ {
+  "slug": "rain-pond",
+  "section": "Water",
+  "blurb": "A summer squall crossing Corot's willows, scrolled through as one weather event, with the painting taking part.",
+  "kb": 1257
+ },
+ {
+  "slug": "stitch-type",
+  "section": "Type & text",
+  "blurb": "A heading sewn in silk on linen. The text is rasterised offscreen and turned into real embroidery: satin stitches laid edge to edge across every stroke at a slant, a fine split-stitch outline round each glyph, a dark padding beneath.",
+  "kb": 1774,
+  "npm": "@oddments/stitch-type"
+ },
+ {
+  "slug": "pretext-inscription",
+  "section": "Type & text",
+  "blurb": "A Roman inscription cut into a broken stone.",
+  "kb": 206,
+  "npm": "@oddments/pretext-inscription"
+ },
+ {
+  "slug": "drop-cap-gilt",
+  "section": "Type & text",
+  "blurb": "An illuminated-manuscript drop cap for article openings.",
+  "kb": 9,
+  "npm": "@oddments/drop-cap-gilt"
+ },
+ {
+  "slug": "pretext-burn",
+  "section": "Type & text",
+  "blurb": "A handwritten letter burning slowly from one corner as you scroll, the way paper burns: the sheet browns ahead of the fire, a thin broken line of embers creeps across it, behind that the paper goes to glossy black char that cracks into plates, then to grey ash, and the ash lifts away a flake at a time and leaves holes onto the page.",
+  "kb": 246,
+  "npm": "@oddments/pretext-burn"
+ },
+ {
+  "slug": "pretext-calligram",
+  "section": "Type & text",
+  "blurb": "A paragraph poured into a vessel. The text is set inside the silhouette of a real object, a cut-out amphora or vase, line by line, justified so the edges of the words are the edge of the pot.",
+  "kb": 400,
+  "npm": "@oddments/pretext-calligram"
+ },
+ {
+  "slug": "pretext-gloss",
+  "section": "Type & text",
+  "blurb": "The glossed page: a medieval glossed Bible, a Talmud folio or a Renaissance commentary page, laid out live. The main text sits in the middle in larger type, under a painted initial.",
+  "kb": 307,
+  "npm": "@oddments/pretext-gloss"
+ },
+ {
+  "slug": "pretext-spiral",
+  "section": "Type & text",
+  "blurb": "A paragraph wound onto a disc of fired clay, like the Phaistos Disc.",
+  "kb": 972,
+  "npm": "@oddments/pretext-spiral"
+ },
+ {
+  "slug": "pretext-weathering",
+  "section": "Type & text",
+  "blurb": "A paragraph cut into a block of sandstone, and three hundred years of weather, scrubbed by the scroll.",
+  "kb": 1096
+ },
+ {
+  "slug": "kintsugi",
+  "section": "Objects you handle",
+  "blurb": "A porcelain dish lying on the paper. Tap it and it cracks from where you tapped, comes apart, and the pieces jump, tumble a little and slide to rest around it, with a few chips.",
+  "kb": 662
+ },
+ {
+  "slug": "page-turn",
+  "section": "Objects you handle",
+  "blurb": "An old printed herbal lying open, and you turn its leaves.",
+  "kb": 3884
+ },
+ {
+  "slug": "specimen-tray",
+  "section": "Objects you handle",
+  "blurb": "A naturalist's cabinet drawer of shells and coins you can handle. Scrolling into the section pulls the drawer out from under a shelf edge; it has weight, stops hard against its runners, and everything in it shivers once while the tags swing.",
+  "kb": 2480
+ },
+ {
+  "slug": "brass-rubbing",
+  "section": "Objects you handle",
+  "blurb": "A sheet of thin paper taped over a memorial brass.",
+  "kb": 2393
+ },
+ {
+  "slug": "excavation",
+  "section": "Objects you handle",
+  "blurb": "A Roman floor at the bottom of a trench, under a skin of sand and dust, and you uncover it with a brush.",
+  "kb": 2436
+ },
+ {
+  "slug": "moodboard",
+  "section": "Objects you handle",
+  "blurb": "A pinboard for collecting pictures: paper prints on an endless sheet of board you can pan and zoom like tldraw or Figma. On arrival the prints lie in a pile and are dealt out into a loose cluster.",
+  "kb": 15183
+ },
+ {
+  "slug": "ink-pad",
+  "section": "Controls & forms",
+  "blurb": "A signature field, or a page of margin notes, that writes like a pointed dip pen on good paper.",
+  "kb": 932
+ },
+ {
+  "slug": "paper-theatre",
+  "section": "Scroll & navigation",
+  "blurb": "A Victorian toy theatre set in front of you as you scroll. The stage opens empty, a bare back wall inside the proscenium.",
+  "kb": 3378
+ },
+ {
+  "slug": "merian-metamorphosis",
+  "section": "Biodiversity",
+  "blurb": "Merian's pomegranate plate arrives as bare engraving and takes its hand-colouring as you scroll, ending as the finished plate of 1705.",
+  "kb": 475
+ },
+ {
+  "slug": "audubon-heron",
+  "section": "Biodiversity",
+  "blurb": "John James Audubon's Great Blue Heron, Plate 211 of The Birds of America, coloured by hand as you scroll, the way a subscriber's sheet was finished in Robert Havell's London shop.",
+  "kb": 3100
+ },
+ {
+  "slug": "coral-biodiversity",
+  "section": "Biodiversity",
+  "blurb": "Haeckel's sea anemones arrive as line and bloom into full colour as you scroll, ending as the Actiniae plate itself.",
+  "kb": 1175
+ },
+ {
+  "slug": "haeckel-radiolaria",
+  "section": "Biodiversity",
+  "blurb": "Haeckel's radiolaria plate inks in radially as you scroll, from pale line to the full Kunstformen plate of 1899.",
+  "kb": 1687
+ },
+ {
+  "slug": "botticelli-primavera",
+  "section": "Renaissance",
+  "blurb": "Botticelli's Primavera painted in front of you as you scroll, in the order of egg tempera. It starts as a bare gesso panel.",
+  "kb": 2756
+ },
+ {
+  "slug": "reedbed",
+  "section": "Also kept",
+  "blurb": "",
+  "kb": 379
+ },
+ {
+  "slug": "murmuration",
+  "section": "Also kept",
+  "blurb": "George Inness's A Winter Sky (1866), a frozen marsh at the end of a December afternoon, with forty thousand starlings flying in its light.",
+  "kb": 1568
+ },
+ {
+  "slug": "glowworm-grotto",
+  "section": "Also kept",
+  "blurb": "A glowworm cave as a dark plate on the page: the long-exposure picture of a Waitomo-style grotto, blue-green points on the ceiling, their beaded threads, and the same points again in the still stream.",
+  "kb": 1862
+ },
+ {
+  "slug": "coral-reef",
+  "section": "Also kept",
+  "blurb": "The Great Barrier Reef as William Saville-Kent showed it to London in 1893: Chromo V, \"Great Barrier Reef Corals\", from The Great Barrier Reef of Australia, printed in front of you as you scroll, stone by stone, the way Riddle & Couchman printed it.",
+  "kb": 5911
+ },
+ {
+  "slug": "cera-tablet",
+  "section": "Also kept",
+  "blurb": "A text field that is a real wax tablet: two leaves of a Coptic set from Egypt, made between 500 and 700 and photographed by the Metropolitan Museum. The left leaf still carries its own Greek lesson, scratched in a quick cursive.",
+  "kb": 1654
+ },
+ {
+  "slug": "chladni-slider",
+  "section": "Also kept",
+  "blurb": "Ernst Chladni's own sand figures, made again as you scroll. The sheet is Tab. VIII of his Entdeckungen über die Theorie des Klanges (Leipzig 1787): twenty square plates, figures 87 to 106, engraved in copper by Capieux in 1786.",
+  "kb": 2435,
+  "npm": "@oddments/chladni-slider"
+ },
+ {
+  "slug": "crt-ident",
+  "section": "Also kept",
+  "blurb": "Any logo, shown on a colour television of about 1985.",
+  "kb": 30,
+  "npm": "@oddments/crt-ident"
+ },
+ {
+  "slug": "hohmann-loader",
+  "section": "Also kept",
+  "blurb": "A page loader drawn as an engraved plate of a Hohmann transfer from Earth to Mars.",
+  "kb": 94,
+  "npm": "@oddments/hohmann-loader"
+ },
+ {
+  "slug": "mimosa-toggle",
+  "section": "Also kept",
+  "blurb": "A switch that is a leaf of a real botanical plate. The plate is Henry Andrews' Mimosa pudica, plate 544 of The Botanist's Repository (1807), a hand-coloured engraving, lying on the page as a sheet. Its great lower leaf is the control.",
+  "kb": 2298,
+  "npm": "@oddments/mimosa-toggle"
+ },
+ {
+  "slug": "murmuration-v1",
+  "section": "Also kept",
+  "blurb": "A dusk sky over a wetland with a few thousand starlings in it.",
+  "kb": 351
+ },
+ {
+  "slug": "plums-and-custard",
+  "section": "Also kept",
+  "blurb": "James Sowerby's plate of the \"plums and custard\" fungus, made in front of you as you scroll, in the order it was made in 1796. It starts as a bare leaf of the book.",
+  "kb": 3755
+ },
+ {
+  "slug": "seagrass-meadow-previous",
+  "section": "Also kept",
+  "blurb": "A hero band five metres down in a Mediterranean Posidonia meadow on a sunny day.",
+  "kb": 437
+ },
+ {
+  "slug": "temper-run",
+  "section": "Also kept",
+  "blurb": "Ground steel that tempers, cut into a small kit for real pages. One engine, the same steel and the same polish as the original chisel, in four shapes:",
+  "kb": 769
+ },
+ {
+  "slug": "temper-run-previous",
+  "section": "Also kept",
+  "blurb": "A progress bar that is a ground steel chisel being tempered. The heat goes into the shank from somewhere off the page; you never see it, only what it does.",
+  "kb": 29
+ }
+]

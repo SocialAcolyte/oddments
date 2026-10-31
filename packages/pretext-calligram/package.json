@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-calligram",
+  "version": "0.1.0",
+  "description": "A paragraph poured into a vessel. The text is set inside the silhouette of a real object, a cut-out amphora or vase, line by line, justified so the edges of the words are the edge of the pot.",
+  "type": "module",
+  "main": "./pretext-calligram.js",
+  "module": "./pretext-calligram.js",
+  "exports": {
+    ".": "./pretext-calligram.js",
+    "./style.css": "./pretext-calligram.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-calligram",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-calligram"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

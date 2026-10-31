@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-spiral",
+  "version": "0.1.0",
+  "description": "A paragraph wound onto a disc of fired clay, like the Phaistos Disc.",
+  "type": "module",
+  "main": "./pretext-spiral.js",
+  "module": "./pretext-spiral.js",
+  "exports": {
+    ".": "./pretext-spiral.js",
+    "./style.css": "./pretext-spiral.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-spiral",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-spiral"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

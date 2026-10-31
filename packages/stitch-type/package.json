@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/stitch-type",
+  "version": "0.1.0",
+  "description": "A heading sewn in silk on linen. The text is rasterised offscreen and turned into real embroidery: satin stitches laid edge to edge across every stroke at a slant, a fine split-stitch outline round each glyph, a dark padding beneath.",
+  "type": "module",
+  "main": "./stitch-type.js",
+  "module": "./stitch-type.js",
+  "exports": {
+    ".": "./stitch-type.js",
+    "./style.css": "./stitch-type.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/stitch-type",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/stitch-type"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "stitch"
+  ]
+}

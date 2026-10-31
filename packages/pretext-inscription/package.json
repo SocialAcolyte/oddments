@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-inscription",
+  "version": "0.1.0",
+  "description": "A Roman inscription cut into a broken stone.",
+  "type": "module",
+  "main": "./pretext-inscription.js",
+  "module": "./pretext-inscription.js",
+  "exports": {
+    ".": "./pretext-inscription.js",
+    "./style.css": "./pretext-inscription.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-inscription",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-inscription"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

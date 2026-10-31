@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-burn",
+  "version": "0.1.0",
+  "description": "A handwritten letter burning slowly from one corner as you scroll, the way paper burns: the sheet browns ahead of the fire, a thin broken line of embers creeps across it, behind that the paper goes to glossy black char that cracks into plates, then to grey ash, and the ash lifts away a flake at a time and leaves holes onto the page.",
+  "type": "module",
+  "main": "./pretext-burn.js",
+  "module": "./pretext-burn.js",
+  "exports": {
+    ".": "./pretext-burn.js",
+    "./style.css": "./pretext-burn.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-burn",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-burn"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

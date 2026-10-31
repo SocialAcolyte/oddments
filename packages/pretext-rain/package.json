@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/pretext-rain",
+  "version": "0.1.0",
+  "description": "A handwritten letter left out on a garden table, and a shower coming over it as you scroll.",
+  "type": "module",
+  "main": "./pretext-rain.js",
+  "module": "./pretext-rain.js",
+  "exports": {
+    ".": "./pretext-rain.js",
+    "./style.css": "./pretext-rain.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/pretext-rain",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/pretext-rain"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "pretext"
+  ]
+}

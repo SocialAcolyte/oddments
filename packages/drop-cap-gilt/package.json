@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/drop-cap-gilt",
+  "version": "0.1.0",
+  "description": "An illuminated-manuscript drop cap for article openings.",
+  "type": "module",
+  "main": "./drop-cap-gilt.js",
+  "module": "./drop-cap-gilt.js",
+  "exports": {
+    ".": "./drop-cap-gilt.js",
+    "./style.css": "./drop-cap-gilt.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/drop-cap-gilt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/drop-cap-gilt"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "drop"
+  ]
+}

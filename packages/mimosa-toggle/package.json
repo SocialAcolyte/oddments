@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/mimosa-toggle",
+  "version": "0.1.0",
+  "description": "A switch that is a leaf of a real botanical plate. The plate is Henry Andrews' Mimosa pudica, plate 544 of The Botanist's Repository (1807), a hand-coloured engraving, lying on the page as a sheet. Its great lower leaf is the control.",
+  "type": "module",
+  "main": "./mimosa-toggle.js",
+  "module": "./mimosa-toggle.js",
+  "exports": {
+    ".": "./mimosa-toggle.js",
+    "./style.css": "./mimosa-toggle.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/mimosa-toggle",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/mimosa-toggle"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "mimosa"
+  ]
+}

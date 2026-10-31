@@ -1,0 +1,31 @@
+{
+  "name": "@oddments/details-wheel",
+  "version": "0.1.0",
+  "description": "Any set of images starts as a pile at the centre of a pinned stage, spirals out through a full turn, and settles into a ring facing outward like petals; grey to colour as each lands.",
+  "type": "module",
+  "main": "./details-wheel.js",
+  "module": "./details-wheel.js",
+  "exports": {
+    ".": "./details-wheel.js",
+    "./style.css": "./details-wheel.css",
+    "./*": "./*"
+  },
+  "sideEffects": true,
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/#/details-wheel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialAcolyte/oddments.git",
+    "directory": "packages/details-wheel"
+  },
+  "keywords": [
+    "oddments",
+    "component",
+    "animation",
+    "canvas",
+    "vanilla-js",
+    "no-build",
+    "details"
+  ]
+}

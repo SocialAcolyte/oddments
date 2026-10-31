@@ -1,0 +1,14 @@
+{
+  "name": "oddments",
+  "version": "0.1.0",
+  "description": "Living web components drawn from paintings, plates, water, cloth and stone. List the collection and copy any piece into your project.",
+  "type": "module",
+  "bin": { "oddments": "./oddments.js" },
+  "files": ["oddments.js", "pieces.json", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "author": "Connor Hood",
+  "homepage": "https://socialacolyte.github.io/stylefeatures/",
+  "repository": { "type": "git", "url": "git+https://github.com/SocialAcolyte/oddments.git", "directory": "cli" },
+  "keywords": ["oddments", "components", "animation", "canvas", "vanilla-js", "cli"]
+}
